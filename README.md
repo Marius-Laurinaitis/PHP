@@ -2,10 +2,10 @@
 BATTLESHIP GAME IN A PHP MANNER! Here i am doing a BATTLESHIP  game in PHP
 
 	After running >100000 given ships array placing simulations on a 0.1s interval there are no errors.
-	The given aray consists of :    1 ship length 4
-					2 ships length 3
-					3 ships length 2
-					4 ships length: 1 
+	The given array consists of :    1 ship length 4
+					 2 ships length 3
+					 3 ships length 2
+					 4 ships length: 1 
 				
 Every ship must be placed in a way it does not have adjacent ships around it.
 								Check fucntion is checking the ship placement possibility. If there is a way to place the ship - the ship will be placed. If not starting coordinates will be changing with placing option untill
