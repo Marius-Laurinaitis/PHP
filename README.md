@@ -1,4 +1,4 @@
-<font size="6">This is some text!</font>
+<font size="60">This is some text!</font>
 <p align="center">
 <img src="PHP_Battleship.png" width="800" >
 </p>
