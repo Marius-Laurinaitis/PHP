@@ -1,7 +1,7 @@
 
-<p align="center">
+<div align="center">
 <img src="PHP_Battleship.png" width="800" >
-</p>
+</div>
 
 # PHP
 <h1> BATTLESHIP GAME IN A PHP MANNER! Here i am doing a BATTLESHIP  game in PHP  <h1/>
