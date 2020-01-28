@@ -4,7 +4,7 @@
 </div>
 
 # PHP
-<h1> BATTLESHIP GAME IN A PHP MANNER! Here i am doing a BATTLESHIP  game in PHP  <h1/>
+ BATTLESHIP GAME IN A PHP MANNER! Here i am doing a BATTLESHIP  game in PHP  
 
 	After running >100000 given ships array placing simulations on a 0.1s interval there are no errors.
 	The given array consists of :    1 ship length 4
