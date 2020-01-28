@@ -1,5 +1,5 @@
 
-https://github.com/qe3q4e/PHP/blob/master/PHP_Battleship.png
+
 
 # PHP
 BATTLESHIP GAME IN A PHP MANNER! Here i am doing a BATTLESHIP  game in PHP
