@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="phpbattleshipgame.png" width="800" >
+<img src="phpBattleshipGame.png" width="800" >
 </div>
 
 # PHP
